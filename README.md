@@ -1,6 +1,6 @@
-# xylophone
+# Xylophone
 
-A new Flutter project.
+<img src="https://github.com/Rashmina2000/Xylophone_flutter-app/assets/131146632/6743c432-f65d-40ca-bb7a-a74f05c66b4e" width="250">
 
 ## Getting Started
 
