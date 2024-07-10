@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Rashmina2000/Xylophone_flutter-app/assets/131146632/6743c432-f65d-40ca-bb7a-a74f05c66b4e" width="250"><br>
 
-Xylophone is a simple yet engaging Flutter applications that simulates a xylophone with 7 keys, each playing a different musical note when tapped.
+Xylophone is a simple yet engaging Flutter application for kids that simulates a xylophone with 7 keys, each playing a different musical note when tapped.
 <br><br>
 
 ## Built With
@@ -19,16 +19,30 @@ Xylophone is a simple yet engaging Flutter applications that simulates a xylopho
 
 ### Installation
 
-Clone the repo
+1. Clone the repository:
    ```sh
-   git clone https://github.com/Rashmina2000/Dice_flutter-app.git
+   git clone https://github.com/Rashmina2000/Xylophone_flutter-app.git
    ```
-Navigate into the directory
+2. Navigate into the directory:
    ```sh
-   git clone https://github.com/Rashmina2000/Dice_flutter-app.git
+   cd Xylophone_flutter-app
+   ```
+3. Get the dependencies:
+   ```sh
+   flutter pub get
+   ```
+4. Run the app:
+   ```sh
+   flutter run
    ```
 <br>
 
 ## Contact
 
-Project Link: [https://github.com/Rashmina2000/Dice_flutter-app](https://github.com/Rashmina2000/Dice_flutter-app)
+Project Link: [https://github.com/Rashmina2000/Xylophone_flutter-app.git](https://github.com/Rashmina2000/Xylophone_flutter-app.git)
+<br><br>
+
+## Acknowledgments
+
+Made with [audioplayers 6.0.0](https://pub.dev/packages/audioplayers)
+- A Flutter plugin to play multiple simultaneously audio files, works for Android, iOS, Linux, macOS, Windows, and web.
